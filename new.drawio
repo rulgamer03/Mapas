@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T05:11:05.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="TRHwcS7UBlCrcvIRhWlt" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T05:15:16.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="2w9oNEM4kw3maLjUgaHX" version="20.8.14" type="github">
   <diagram name="Page-1" id="-coN4wT6PQIgdIr4s73m">
-    <mxGraphModel dx="1704" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,11 +211,23 @@
         <mxCell id="5A33XNkDsi85v6cEcbUt-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=default;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-174" target="5A33XNkDsi85v6cEcbUt-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5A33XNkDsi85v6cEcbUt-174" value="&amp;nbsp;Razonamiento basado en casos" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="5A33XNkDsi85v6cEcbUt-174" value="&amp;nbsp;Razonamiento basado en casos" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="770.62" y="860" width="148.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=default;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-176" target="5A33XNkDsi85v6cEcbUt-178">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5A33XNkDsi85v6cEcbUt-176" value="Es un proceso para solucionar cuestiones basándose en soluciones de problemáticas anteriores." style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="762.5" y="950" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=default;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-178" target="5A33XNkDsi85v6cEcbUt-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-178" value="Técnicas de Representación del Conocimiento" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-180" value="transformación a un lenguaje simbólico para ser procesado en un computador." style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="689.99" y="1170" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
