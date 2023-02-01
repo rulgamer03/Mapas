@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T23:05:55.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" version="20.8.14" etag="vg3r9SP-BFqqHtJP9DSQ" type="github"><diagram name="Page-1" id="-coN4wT6PQIgdIr4s73m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T02:18:31.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="5DH3bdpCHg4joIwvTQIV" version="20.8.14" type="github">
+  <diagram name="Page-1" id="-coN4wT6PQIgdIr4s73m">
+    <mxGraphModel dx="961" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5A33XNkDsi85v6cEcbUt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-15" target="5A33XNkDsi85v6cEcbUt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-31" value="Es la" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-15" target="5A33XNkDsi85v6cEcbUt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-15" target="5A33XNkDsi85v6cEcbUt-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-15" value="Inteligencia artificial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-17" value="Sintetiza y automatiza tareas intelectuales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-20" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Combinación de algoritmos planteados con el propósito&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de crear máquinas que presenten las mismas capacidades que el ser humano.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-24" target="5A33XNkDsi85v6cEcbUt-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-24" target="5A33XNkDsi85v6cEcbUt-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-24" value="Áreas de IA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-48" target="5A33XNkDsi85v6cEcbUt-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-48" value="Machine learning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-51" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Muli, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Rama de la ciencia que busca el desarrollo de técnicas de inteligencia artificial que permitan a los ordenadores aprender por sí mismos.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-56" target="5A33XNkDsi85v6cEcbUt-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-56" value="Fuzzy logic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-63" value="Por ejemplo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="5A33XNkDsi85v6cEcbUt-58" target="5A33XNkDsi85v6cEcbUt-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-58" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Muli, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Esta técnica incide en lo relativo de un escenario observado como posición diferencial&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-61" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: Muli, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Considerar una persona de 2 metros como alta al haber tomado antes el valor de una persona de un metro como baja.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5A33XNkDsi85v6cEcbUt-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="540" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
