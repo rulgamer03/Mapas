@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T22:40:03.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" version="21.0.7" etag="qt_1VRRRMqQyRnwAflKW" type="github"><diagram name="Page-1" id="exKD-WhbrrILnutqxjQK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-17T22:47:27.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="3ykCqRI_KOeHbzMppDph" version="21.0.7" type="github">
+  <diagram name="Page-1" id="exKD-WhbrrILnutqxjQK">
+    <mxGraphModel dx="1222" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l0KwrbISTYppJt-A7uCY-2" value="#include &amp;lt;avr/io.h&amp;gt;&lt;br&gt;#define F_CPU 16000000UL&lt;br&gt;#include &amp;lt;util/delay.h&amp;gt;&lt;br&gt;&lt;div&gt;#define DISPLAY_DDRX&amp;nbsp; DDRD&lt;/div&gt;&lt;div&gt;#define DISPLAY_PORTX PORTD&lt;/div&gt;&lt;div&gt;#define SWITCHES PINC&lt;/div&gt;&lt;div&gt;#define SW0 PINC5&lt;/div&gt;&lt;div&gt;&lt;div&gt;#define DELAY 50&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;uint8_t numeros[16] = {0xFC,0x60,0xDA,0xF2,0x66,0xB6,0xBE,0xE0,0xFE,0xE6, 0xEE,0x3E,0x9C,0x7A,0x9E,0x8E};&amp;nbsp;&lt;/div&gt;&lt;div&gt;uint8_t i=0;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="570" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
