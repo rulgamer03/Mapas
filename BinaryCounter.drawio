@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T22:07:38.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.7.2" etag="b3B4HUV_QSoD07QwjI7Y" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T22:12:55.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="O1zTMdF-ixQdV3bfxCIw" version="21.7.2" type="github">
   <diagram name="Page-1" id="dMskLS3s49mohi3oFVOJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhW-4UrEJnp2mKTzDVcV-1" target="MhW-4UrEJnp2mKTzDVcV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-1" value="void BinaryCounter(void)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhW-4UrEJnp2mKTzDVcV-2" target="MhW-4UrEJnp2mKTzDVcV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-2" value="HAL_GPIO_WritePin(GPIOC,counter,GPIO_PIN_SET);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="120" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MhW-4UrEJnp2mKTzDVcV-4" target="MhW-4UrEJnp2mKTzDVcV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-4" value="HAL_Delay(500);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhW-4UrEJnp2mKTzDVcV-6" target="MhW-4UrEJnp2mKTzDVcV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-6" value="HAL_GPIO_WritePin(GPIOC,counter,GPIO_PIN_RESET);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="320" width="376" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MhW-4UrEJnp2mKTzDVcV-8" value="counter++;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
